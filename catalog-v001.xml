@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1773063895463" name="http://example.org/iiitb" uri="backup/iiitb_institution.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1773063895463" name="http://example.org/mowl" uri="mowl_v2.rdf"/>
-        <uri id="Automatically generated entry, Timestamp=1773063895463" name="http://www.semanticweb.org/dell/ontologies/2026/2/untitled-ontology-19/" uri="nw_iiitd_prefixed.rdf"/>
-        <uri id="Automatically generated entry, Timestamp=1773063895463" name="shadowed:http://example.org/mowl" uri="backup/mowl.rdf"/>
-        <uri id="Automatically generated entry, Timestamp=1773063895463" name="shadowed:http://www.semanticweb.org/dell/ontologies/2026/2/untitled-ontology-19/" uri="backup/nw_iiitd.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1773071597605" name="http://example.org/iiitb" uri="backup/iiitb_institution.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1773071597605" name="duplicate:http://example.org/mowl" uri="backup/mowl_v2.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1773071597605" name="duplicate:http://example.org/mowl" uri="backup/mowl.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1773071597605" name="http://www.iiitb.ac.in/ontology/IIITB#" uri="iiitb_master.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1773071597605" name="http://www.iiitd.ac.in/ontology/IIITD#" uri="iiitd_master%20(1).owl"/>
+        <uri id="Automatically generated entry, Timestamp=1773071597605" name="duplicate:http://www.semanticweb.org/dell/ontologies/2026/2/untitled-ontology-19/" uri="backup/nw_iiitd_prefixed.rdf"/>
+        <uri id="Automatically generated entry, Timestamp=1773071597605" name="duplicate:http://www.semanticweb.org/dell/ontologies/2026/2/untitled-ontology-19/" uri="backup/nw_iiitd.rdf"/>
     </group>
 </catalog>
