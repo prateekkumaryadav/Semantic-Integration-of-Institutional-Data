@@ -77,7 +77,7 @@ BASE_URLS = [
     "https://www.iiitb.ac.in/cafeteria",
     "https://www.iiitb.ac.in/library-collection",
     "https://www.iiitb.ac.in/faculty-articles",
-    "https://www.iiitb.ac.in/iiitb-in-the-press",
+    "https://www.iiitb.ac.in/iiitb-in-the-press", 
     "https://www.iiitb.ac.in/annual-reports",
     "https://www.iiitb.ac.in/media-press-releases",
     "https://www.iiitb.ac.in/media-kit",
